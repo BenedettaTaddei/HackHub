@@ -25,8 +25,6 @@ cd HackHub/hackhub
 
 On Windows, use `mvnw.cmd spring-boot:run`.
 
-Once running, the API documentation is available at `http://localhost:8080/swagger-ui.html`.
-
 ## Authors
 
 Developed by a team of students of the University of Camerino. Fork maintained by Benedetta Taddei.
